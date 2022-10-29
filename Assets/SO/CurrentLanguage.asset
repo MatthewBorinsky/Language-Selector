@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: CurrentLanguage
   m_EditorClassIdentifier: 
   currentLanguage: {fileID: 11400000, guid: 62feae49b07c410479bdfd5165ddfd24, type: 2}
+  addedElements: []
