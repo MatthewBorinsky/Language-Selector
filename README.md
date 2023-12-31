@@ -1,3 +1,5 @@
+This was an assignment from UWO CS4482. We were told to create a language selector which used scriptable objects to create the individual language containers.
+
 # Language Selector
 ## CS4482 Tools 2
 ### Matthew Borinsky
